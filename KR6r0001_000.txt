@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 撰集三藏及雜藏傳
+#+DATE: 2015-08-30 21:54:56.836887
+#+PROPERTY: JUAN 0
