@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:54:56.588948
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:05
 #+TITLE: 撰集三藏及雜藏傳
 #+PROPERTY: CBETA_ID T49n2026
 #+PROPERTY: ID KR6r0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 49, No. 2026
 #+PROPERTY: VOL 49
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0001_T_001-0001a> 
 #+PROPERTY: JUAN 1
 ¶
-No.2026¶
-
- 撰集三藏及雜藏傳¶
+No. 2026¶
+撰集三藏及雜藏傳¶
 ¶
 不載譯人名附東晉錄¶
 
@@ -836,9 +835,9 @@ No.2026¶
 　集法已訖
 　天人各還
 　四輩弟子¶
-　皆歸本所
+　皆歸本所」
 #+END_VERSE
-」¶
+¶
 
 佛涅槃後。迦葉阿難等。於摩竭國僧伽尸城¶
 北。造集三藏正經及雜藏經。常所云四篋者。¶
